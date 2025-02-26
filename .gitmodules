@@ -1,9 +1,0 @@
-[submodule "C"]
-	path = C
-	url = https://github.com/AhmadRaza97x/C.git
-[submodule "GATE-C"]
-	path = GATE-C
-	url = https://github.com/AhmadRaza97x/GATE-C.git
-[submodule "PROJECT"]
-	path = PROJECT
-	url = https://github.com/AhmadRaza97x/PROJECT.git
